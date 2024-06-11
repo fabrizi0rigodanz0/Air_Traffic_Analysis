@@ -112,5 +112,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
   - [Statista: Carbon Footprint of Travel per Kilometer by Mode of Transport](https://www.statista.com/statistics/1185559/carbon-footprint-of-travel-per-kilometer-by-mode-of-transport/#:~:text=The%20carbon%20footprint%20of%20a%20domestic%20flight%20)
 
 ---
-
-This README provides a comprehensive overview of your project, detailed usage instructions, and highlights the significant findings and potential impacts of your work. Feel free to modify any sections to better fit your specific needs or preferences.
