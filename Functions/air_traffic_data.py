@@ -50,10 +50,10 @@ class AirTrafficData:
     """Initializes the class by loading datasets into pandas DataFrames."""
 
     def __init__(self):
-        self.airlines_df = self.load_csv("downloads/airlines.csv")
-        self.airplanes_df = self.load_csv("downloads/airplanes.csv")
-        self.airports_df = self.load_csv("downloads/airports.csv")
-        self.routes_df = self.load_csv("downloads/routes.csv")
+        self.airlines_df = self.load_csv("data/airlines.csv")
+        self.airplanes_df = self.load_csv("data/airplanes.csv")
+        self.airports_df = self.load_csv("data/airports.csv")
+        self.routes_df = self.load_csv("data/routes.csv")
 
     def load_csv(self, file_path):
         """
