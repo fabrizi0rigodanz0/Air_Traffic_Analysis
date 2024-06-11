@@ -25,9 +25,6 @@ Example:
     # Retrieve the N most frequently used airplane models
     air_data.most_used_airplane_models(5)
 
-Authors:
-- Robert Münchau, Nicolò Mazzoleni, Julia Emma Maria Antonioli, Fabrizio Rigodanzo
-
 Version:
 - 1.0
 
